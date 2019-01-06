@@ -341,7 +341,7 @@ canvas {
     }
 }
 
-@media (min-width: 384px) and (max-width: 640px) {
+@media (min-width: 386px) and (max-width: 640px) {
     body {
         width: 70%;
         height: auto;
