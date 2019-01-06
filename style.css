@@ -257,7 +257,7 @@ canvas {
     }
     .párrafos {
         font-family: "News Cycle", sans-serif;
-        font-weight: 4200;
+        font-weight: 1200;
         color: white;
         text-align: justify;
         letter-spacing: .1em;
@@ -293,7 +293,7 @@ canvas {
     }
     .párrafos {
         font-family: "News Cycle", sans-serif;
-        font-weight: 4200;
+        font-weight: 1200;
         color: white;
         text-align: justify;
         letter-spacing: .1em;
@@ -329,7 +329,7 @@ canvas {
     }
     .párrafos {
         font-family: "News Cycle", sans-serif;
-        font-weight: 4200;
+        font-weight: 1200;
         color: white;
         text-align: justify;
         letter-spacing: .1em;
@@ -365,14 +365,11 @@ canvas {
     }
     .párrafos {
         font-family: "News Cycle", sans-serif;
-        font-weight: 4200;
+        font-weight: 1200;
         color: white;
         text-align: justify;
         letter-spacing: .1em;
         line-height: 1.1em;
         font-size: 80px;
-    }
-    .texto_historia {
-        font-size: 100%;
     }
 }
