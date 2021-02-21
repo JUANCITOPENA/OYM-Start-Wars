@@ -12,4 +12,4 @@ Es un documento HTML, CSS, JavaScript, y Canvas si aunque no lo crean, se pueden
 ![](img/Start%20Wars%20OYM-3.jpg)
 
 
-URL DEL PROYECTO: https://juancitopena.github.io/OYM-Start-Wars/https://juancitopena.github.io/OYM-Start-Wars/
+URL DEL PROYECTO: https://juancitopena.github.io/OYM-Start-Wars/
